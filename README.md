@@ -1,6 +1,6 @@
 # Anadolu Hayat Emeklilik Datathon 2024
 
-This repo contains the EDA-Preprocessing-Model notebooks that we developed as the Confidence Interval team for the Anadolu Hayat Sigorta Datathon competition.
+This repo contains the EDA-Preprocessing-Model notebooks that we developed as the Confidence Interval team for the Anadolu Hayat Emeklilik Datathon competition.
 
 + **[EDA Notebook](https://github.com/enesmanan/anadolu-hayat-emeklilik-datathon/blob/main/anadolu-hayat-eda.ipynb)**
 + **[Model Notebook](https://github.com/enesmanan/anadolu-hayat-emeklilik-datathon/blob/main/anadolu-hayat-model.ipynb)**
