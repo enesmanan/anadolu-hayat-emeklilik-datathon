@@ -12,7 +12,7 @@ For an Medium article and Kaggle notebook on dealing with imbalanced datasets, y
 + [Medium Article](https://medium.com/@enesmanan768/dengesiz-veri-setlerinde-modelleme-a2830e05e0ff)
 + [Kaggle Notebook](https://www.kaggle.com/code/smailyarknkavalc/classification-in-imbalanced-data)
 
-####  Owners:
+####  Owners:✨
 
 [Enes Fehmi Manan](https://github.com/enesmanan)
 
