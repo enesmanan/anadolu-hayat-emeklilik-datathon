@@ -2,8 +2,8 @@
 
 This repo contains the EDA-Preprocessing-Model notebooks that we developed as the Confidence Interval team for the Anadolu Hayat Sigorta Datathon competition.
 
-+ **[EDA Notebook]()**
-+ **[Model Notebook]()**
++ **[EDA Notebook](https://github.com/enesmanan/anadolu-hayat-emeklilik-datathon/blob/main/anadolu-hayat-eda.ipynb)**
++ **[Model Notebook](https://github.com/enesmanan/anadolu-hayat-emeklilik-datathon/blob/main/anadolu-hayat-model.ipynb)**
 
 
 **Furthermore**
